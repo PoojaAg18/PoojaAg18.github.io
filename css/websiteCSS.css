@@ -1909,7 +1909,7 @@ html[dir=rtl] .lm.box.box_3 .fa-angle-right:before {
 }
 @media(max-width:767px) {
     .home_page .s123-module {
-        padding:50px 0;
+        padding:0px 0;
     }
 }
 .inside_page .s123-module {
@@ -2918,7 +2918,7 @@ html .site-dropdown-menu.dropdown-side-open-up {
         padding:0 7px !important;
     }
     .s123-content-area {
-        margin-top:60px;
+        margin-top:0px;
     }
     #websiteHeader {
         display:none !important;
